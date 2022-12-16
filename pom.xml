@@ -14,7 +14,7 @@
   <url>http://www.example.com</url>
 
   <properties>
-    <springmvc.v>5.2.4.RELEASE</springmvc.v>
+    <springmvc.v>5.2.20.RELEASE</springmvc.v>
     <hibernatecore>5.4.12.Final</hibernatecore>
     <hibernate.validator>6.0.18.Final</hibernate.validator>
     <servlets.version>4.0.1</servlets.version>
